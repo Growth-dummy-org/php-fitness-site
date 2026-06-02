@@ -1,0 +1,13 @@
+{
+  "name": "growth-dummy/php-fitness-site",
+  "description": "PHP fitness web app",
+  "type": "project",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
